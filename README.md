@@ -1,7 +1,7 @@
 # Hello Hapi AAA
 
 An example [Hapi.js](https://hapijs.com/) app with https://github.com/hapijs/lab tests. Solution to Exercise 1 from [Exercises for Programmers](http://pragprog.com/titles/bhwb), copyright 2015 The Pragmatic Programmers.
-TESST 4
+TESST 5 NOW WITH AGENTS
 ## Usage
 
 Install dependencies:
